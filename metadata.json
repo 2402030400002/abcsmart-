@@ -1,0 +1,7 @@
+{
+  "name": "SmartSafar - Smart Tourist Assistance & Safety",
+  "description": "Smart tourist assistance and travel companion platform featuring AI trip planning, real-time safety, emergency SOS, road status, scam alerts, and offline guides.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
